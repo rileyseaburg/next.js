@@ -164,7 +164,7 @@
     "cookie": "0.4.0",
     "cssnano-simple": "1.0.1",
     "debug": "4.1.1",
-    "devalue": "2.0.1",
+    "devalue": "5.9.3",
     "dotenv": "8.2.0",
     "dotenv-expand": "5.1.0",
     "escape-string-regexp": "2.0.0",
